@@ -64,10 +64,12 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Collections\Endpoints.cs" />
+    <Compile Include="Collections\UnknownUser.cs" />
     <Compile Include="Storage\ProfileData.cs" />
     <Compile Include="Storage\ProxyInfo.cs" />
     <Compile Include="Storage\StorageStructureFactory.cs" />
     <Compile Include="Storage\TokenInfo.cs" />
+    <Compile Include="Storage\UserReference.cs" />
     <Compile Include="UI\MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
