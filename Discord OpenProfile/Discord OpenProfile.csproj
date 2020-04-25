@@ -63,6 +63,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Collections\Endpoints.cs" />
     <Compile Include="Storage\ProfileData.cs" />
     <Compile Include="Storage\ProxyInfo.cs" />
     <Compile Include="Storage\StorageStructureFactory.cs" />
@@ -99,7 +100,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Collections\" />
     <Folder Include="Distribution\" />
     <Folder Include="Modification\" />
   </ItemGroup>
