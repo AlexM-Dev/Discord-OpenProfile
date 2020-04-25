@@ -2,6 +2,7 @@
 
 ## What is this?
 \* Yes, this is a selfbot.
+
 "An open source profile change-over-time tracker for Discord" is probably the most concise definition you'll find of this program.
 What it essentially does is uses various tokens and proxies (\*) to identify a set of users added to be tracked and reads their
 profile information, monitoring changes over time. It's applicable in the scenarios where scammers are constantly changing their 
