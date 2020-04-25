@@ -63,6 +63,10 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Storage\ProfileData.cs" />
+    <Compile Include="Storage\ProxyInfo.cs" />
+    <Compile Include="Storage\StorageStructureFactory.cs" />
+    <Compile Include="Storage\TokenInfo.cs" />
     <Compile Include="UI\MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -98,7 +102,6 @@
     <Folder Include="Collections\" />
     <Folder Include="Distribution\" />
     <Folder Include="Modification\" />
-    <Folder Include="Storage\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
