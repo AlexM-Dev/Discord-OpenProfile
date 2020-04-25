@@ -65,6 +65,7 @@
     </Compile>
     <Compile Include="Collections\Endpoints.cs" />
     <Compile Include="Collections\UnknownUser.cs" />
+    <Compile Include="Distribution\ProxyDistributionFactory.cs" />
     <Compile Include="Storage\ProfileData.cs" />
     <Compile Include="Storage\ProxyInfo.cs" />
     <Compile Include="Storage\StorageStructureFactory.cs" />
@@ -102,7 +103,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Distribution\" />
     <Folder Include="Modification\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
