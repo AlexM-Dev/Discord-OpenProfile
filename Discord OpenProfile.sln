@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discord OpenProfile", "Discord OpenProfile\Discord OpenProfile.csproj", "{8CC3802C-A566-4EBF-A577-1E7518E2741B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CC3802C-A566-4EBF-A577-1E7518E2741B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC3802C-A566-4EBF-A577-1E7518E2741B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CC3802C-A566-4EBF-A577-1E7518E2741B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CC3802C-A566-4EBF-A577-1E7518E2741B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3BA4F3A-4A27-4A58-970A-2F3D1631CB62}
+	EndGlobalSection
+EndGlobal
