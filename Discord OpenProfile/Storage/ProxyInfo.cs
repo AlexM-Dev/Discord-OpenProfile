@@ -14,5 +14,6 @@ namespace Discord_OpenProfile.Storage {
      */
     class ProxyInfo {
         public WebProxy Proxy { get; set; }
+        public TokenInfo Token { get; set; }
     }
 }

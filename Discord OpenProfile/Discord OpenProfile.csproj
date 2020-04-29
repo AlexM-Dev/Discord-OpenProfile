@@ -63,6 +63,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Collections\Collector.cs" />
     <Compile Include="Collections\Endpoints.cs" />
     <Compile Include="Collections\UnknownUser.cs" />
     <Compile Include="Distribution\ProxyDistributionFactory.cs" />
